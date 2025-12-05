@@ -1,0 +1,36 @@
+{
+  "scheduler": {
+    "start_date": "2025/12/04",
+    "edition": 8,
+    "num_days": 7,
+    "notes": [
+      "部分積分など、少し難しい積分も追加しました。",
+      "今週は、積分メインでいきましょう。"
+    ]
+  },
+  "output": {
+    "directory": "/Users/mei/塾（ファースト）/計算プリントデータ/問題_完成版"
+  },
+  "categories": {
+    "limits": {
+      "per_day": 3,
+      "min_difficulty": 1,
+      "max_difficulty": 5
+    },
+    "differentiation": {
+      "per_day": 0,
+      "min_difficulty": 2,
+      "max_difficulty": 5
+    },
+    "integration_easy": {
+      "per_day": 7,
+      "min_difficulty": 1,
+      "max_difficulty": 5
+    },
+    "integration": {
+      "per_day": 0,
+      "min_difficulty": 1,
+      "max_difficulty": 5
+    }
+  }
+}
